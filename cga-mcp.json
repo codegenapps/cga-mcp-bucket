@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/codegenapps/cga-mcp-releases/releases/download/v0.1.0/cga-mcp_0.1.0_windows_amd64.zip",
+            "bin": [
+                "cga-mcp.exe"
+            ],
+            "hash": "2fee57c697dedeee0102957f86fa44bca22069f35aca546f7063c4bbb9c80a48"
+        }
+    },
+    "homepage": "https://github.com/codegenapps/cga-mcp",
+    "description": "CGA Master Control Program (MCP) CLI"
+}
