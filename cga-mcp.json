@@ -1,12 +1,12 @@
 {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/codegenapps/cga-mcp-releases/releases/download/v0.6.0/cga-mcp_0.6.0_windows_amd64.zip",
+            "url": "https://github.com/codegenapps/cga-mcp-releases/releases/download/v0.7.0/cga-mcp_0.7.0_windows_amd64.zip",
             "bin": [
                 "cga-mcp.exe"
             ],
-            "hash": "94909a5312011aa0cf1ba5f1e5cc9b62dc152c9c8fefa2ac747f08c371aef4df"
+            "hash": "e9bd338783bc2d1fb75d44e9a6d18289b29077f112dddfe8cde91f7ba19bee3e"
         }
     },
     "homepage": "https://github.com/codegenapps/cga-mcp",
